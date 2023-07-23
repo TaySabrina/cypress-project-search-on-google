@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "test": "cypress run",
+    "cy:open":"cypress open"
+  },
+
+  "dependencies": {
+    "cypress": "^12.17.2"
+  }
+}
